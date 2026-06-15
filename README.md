@@ -18,9 +18,9 @@ Plán letního roadtripu na Balkán v **Tesle Model 3 Long Range**.
 
 ### 🗺️ Celý okruh na mapě
 
-➡️ **[trasa.geojson](trasa.geojson)** — otevři přímo na GitHubu a uvidíš **celý okruh na interaktivní mapě** (všech 30 zastávek + spojnice). 🟢 = základny na středy (meeting day).
-
-Stejný soubor můžeš naimportovat do [Google My Maps](https://www.google.com/mymaps) (Vytvořit mapu → Importovat) nebo na [geojson.io](https://geojson.io) a prohlédnout celou smyčku naráz.
+- 👀 **Náhled na GitHubu:** otevři **[trasa.geojson](trasa.geojson)** — GitHub ho vykreslí jako **interaktivní mapu** (všech 30 zastávek + spojnice). 🟢 = základny na středy.
+- 🗺️ **Do Google My Maps:** stáhni **[trasa.kml](trasa.kml)** → [My Maps](https://www.google.com/mymaps) → *Vytvořit mapu → Importovat* (My Maps umí KML/KMZ/GPX/CSV, **ne** GeoJSON).
+- 🌍 **Rychlý náhled bez účtu:** přetáhni `trasa.geojson` na [geojson.io](https://geojson.io).
 
 > Pozn.: čára spojuje zastávky úsečkami (přehled tvaru okruhu), ne přesné silnice. Reálné km jsou v itineráři.
 

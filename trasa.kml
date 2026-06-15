@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tour de Balkán 2026 — Velký okruh B+</name>
+    <description>~40denní okruh, ~5 360 km. 🟢 = základny na středy (meeting day).</description>
+
+    <Style id="routeLine">
+      <LineStyle>
+        <color>ff2f34e3</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>Trasa B+ (okruh)</name>
+      <styleUrl>#routeLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          12.634,49.795 14.315,48.811 13.649,47.562 14.114,46.369 14.506,46.056 15.616,44.880 15.231,44.119 15.889,43.735 16.440,43.508 18.094,42.650 17.808,43.343 18.413,43.857 18.690,43.310 19.123,43.154 18.771,42.424 19.770,42.390 19.512,42.068 19.819,41.327 19.745,40.103 19.951,40.705 20.801,41.117 21.630,39.704 22.501,40.100 22.944,40.640 21.426,41.998 21.896,43.321 20.449,44.787 19.040,47.498 18.058,46.904 12.634,49.795
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark><name>1. Tachov (START)</name><Point><coordinates>12.634,49.795,0</coordinates></Point></Placemark>
+    <Placemark><name>2. Český Krumlov</name><Point><coordinates>14.315,48.811,0</coordinates></Point></Placemark>
+    <Placemark><name>3. Hallstatt (AT)</name><Point><coordinates>13.649,47.562,0</coordinates></Point></Placemark>
+    <Placemark><name>4. Bled / Triglav (SLO)</name><Point><coordinates>14.114,46.369,0</coordinates></Point></Placemark>
+    <Placemark><name>5. Ljubljana 🟢</name><Point><coordinates>14.506,46.056,0</coordinates></Point></Placemark>
+    <Placemark><name>6. Plitvická jezera (HR)</name><Point><coordinates>15.616,44.880,0</coordinates></Point></Placemark>
+    <Placemark><name>7. Zadar</name><Point><coordinates>15.231,44.119,0</coordinates></Point></Placemark>
+    <Placemark><name>8. Krka NP / Šibenik</name><Point><coordinates>15.889,43.735,0</coordinates></Point></Placemark>
+    <Placemark><name>9. Split 🟢</name><Point><coordinates>16.440,43.508,0</coordinates></Point></Placemark>
+    <Placemark><name>10. Dubrovník</name><Point><coordinates>18.094,42.650,0</coordinates></Point></Placemark>
+    <Placemark><name>11. Mostar (BiH)</name><Point><coordinates>17.808,43.343,0</coordinates></Point></Placemark>
+    <Placemark><name>12. Sarajevo 🟢</name><Point><coordinates>18.413,43.857,0</coordinates></Point></Placemark>
+    <Placemark><name>13. Sutjeska NP</name><Point><coordinates>18.690,43.310,0</coordinates></Point></Placemark>
+    <Placemark><name>14. Durmitor / Žabljak (ČH)</name><Point><coordinates>19.123,43.154,0</coordinates></Point></Placemark>
+    <Placemark><name>15. Kotor 🟢</name><Point><coordinates>18.771,42.424,0</coordinates></Point></Placemark>
+    <Placemark><name>16. Theth (AL)</name><Point><coordinates>19.770,42.390,0</coordinates></Point></Placemark>
+    <Placemark><name>17. Shkodër</name><Point><coordinates>19.512,42.068,0</coordinates></Point></Placemark>
+    <Placemark><name>18. Tirana 🟢</name><Point><coordinates>19.819,41.327,0</coordinates></Point></Placemark>
+    <Placemark><name>19. Himarë (Riviéra)</name><Point><coordinates>19.745,40.103,0</coordinates></Point></Placemark>
+    <Placemark><name>20. Berat</name><Point><coordinates>19.951,40.705,0</coordinates></Point></Placemark>
+    <Placemark><name>21. Ohrid 🟢 (MK)</name><Point><coordinates>20.801,41.117,0</coordinates></Point></Placemark>
+    <Placemark><name>22. Meteora (GR)</name><Point><coordinates>21.630,39.704,0</coordinates></Point></Placemark>
+    <Placemark><name>23. Olymp / Litochoro</name><Point><coordinates>22.501,40.100,0</coordinates></Point></Placemark>
+    <Placemark><name>24. Thessaloniki / Soluň</name><Point><coordinates>22.944,40.640,0</coordinates></Point></Placemark>
+    <Placemark><name>25. Skopje (MK)</name><Point><coordinates>21.426,41.998,0</coordinates></Point></Placemark>
+    <Placemark><name>26. Niš (SRB)</name><Point><coordinates>21.896,43.321,0</coordinates></Point></Placemark>
+    <Placemark><name>27. Bělehrad 🟢</name><Point><coordinates>20.449,44.787,0</coordinates></Point></Placemark>
+    <Placemark><name>28. Budapešť 🟢 (HU)</name><Point><coordinates>19.040,47.498,0</coordinates></Point></Placemark>
+    <Placemark><name>29. Balaton / Siófok</name><Point><coordinates>18.058,46.904,0</coordinates></Point></Placemark>
+    <Placemark><name>30. Tachov (CÍL) 🏁</name><Point><coordinates>12.634,49.795,0</coordinates></Point></Placemark>
+  </Document>
+</kml>
